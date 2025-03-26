@@ -42,7 +42,7 @@ Troubleshooting
 - Order issues: Contact support or track order status.
 
 Support
-- Email: mailto:treasureudoe457@gmail.com
+- Email: mail to : treasureudoe457@gmail.com
 - Phone: 8826607135
 - FAQ: Visit our website for frequently asked questions and answers.
 
