@@ -43,10 +43,9 @@ Troubleshooting
 
 Support
 <a href="mailto:someone@example.com?subject=Hello&body=I%20want%20to%20talk%20about%20our%20project.">
-  Email Me
+  treasureudoe457@gmail.com
 </a>
 
-- Email: mail to : treasureudoe457@gmail.com
 - Phone: 8826607135
 - FAQ: Visit our website for frequently asked questions and answers.
 
