@@ -47,7 +47,7 @@ Troubleshooting
 </a>
 
 - Phone: 8826607135
-- FAQ: Visit our website for frequently asked questions and answers.
+- FAQ: Visit our website for frequently asked questions and answers.  
 "Thank you for choosing [peony's ecommerce app]! We're thrilled to have you on board and can’t wait to make your shopping experience smooth, fast, and delightful. Happy shopping!"
 
 
