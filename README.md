@@ -41,7 +41,7 @@ Troubleshooting
 - Payment issues: Contact support or try an alternative payment method.
 - Order issues: Contact support or track order status.
 
-Support: 
+- Support: 
 <a href="mailto:someone@example.com?subject=Hello&body=I%20want%20to%20talk%20about%20our%20project.">
   treasureudoe457@gmail.com
 </a>
