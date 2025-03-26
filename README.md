@@ -42,8 +42,8 @@ Troubleshooting
 - Order issues: Contact support or track order status.
 
 Support
-- Email: mailto:support@ecommerceapp.com
-- Phone: 1-800-ECOMMERCE
+- Email: mailto:treasureudoe457@gmail.com
+- Phone: 8826607135
 - FAQ: Visit our website for frequently asked questions and answers.
 
 Thank you for choosing our ecommerce app!
