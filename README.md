@@ -42,6 +42,10 @@ Troubleshooting
 - Order issues: Contact support or track order status.
 
 Support
+<a href="mailto:someone@example.com?subject=Hello&body=I%20want%20to%20talk%20about%20our%20project.">
+  Email Me
+</a>
+
 - Email: mail to : treasureudoe457@gmail.com
 - Phone: 8826607135
 - FAQ: Visit our website for frequently asked questions and answers.
